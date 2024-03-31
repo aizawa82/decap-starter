@@ -1,5 +1,5 @@
 ---
-title: This is my first post
+title: This is my first post - how long does it take to go online?
 description: checking out neat starter with decap cms
 author: john doe
 date: 2024-03-31T00:00:08.879Z
